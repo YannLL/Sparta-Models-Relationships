@@ -1,3 +1,3 @@
 class Classmate < ApplicationRecord
-  has_many :Pokemon
+  has_many :pokemon
 end

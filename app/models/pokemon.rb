@@ -1,3 +1,3 @@
 class Pokemon < ApplicationRecord
-  belongs_to :Classmate
+  belongs_to :classmate
 end
